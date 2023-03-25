@@ -172,7 +172,8 @@ def player_numbers(input)
         end
       end
     end
-  end return output
+  end 
+  return output
 end
 
 def player_stats(player_name)
